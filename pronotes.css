@@ -1,0 +1,85 @@
+ .main
+	{
+	height:750px;
+	widht:100%;
+	background-image: url("back2.jpg");
+	
+	}
+	.headers
+	{
+		
+	height:50px;
+	width:100%;
+	text-align:center;
+	background-color:#76634A;
+	box-shadow: 10px 5px 5px black;
+	}
+	
+		.welcome1{
+		height:100px;
+		width:100%;
+		
+		}
+		.welcome{
+		height:100px;
+		width:100%;
+		text-align:center;
+		
+		}
+	
+	.home
+	{
+	height:100px;
+	width:100%;
+	
+	}
+	
+	.mainarea{
+		height:600px;
+		width:80%;
+		text-align:center;
+	}
+	
+	.headermenu{
+		font-size:30px;
+		color:#FFDE6F;
+		font-family:"Arial Black";
+		padding-left:100px;
+	
+	}
+	.usernametext
+	{
+		font-size:30px;
+		color:#ECECEC;
+		font-family:"Arial Black";
+		padding-left:300px;
+	}
+	.usernametextlog
+	{
+		font-size:40px;
+		color:#ECECEC;
+		font-family:"Arial Black";
+		padding-left:250px;
+	}		
+
+		.u
+		{
+			height: 40px;
+			width:250px;
+			text-align:center;
+			border-radius: 25px;
+		}
+	.loginbutton{
+			height:35px;
+			width:180px;
+			margin-top:30px;
+			margin-left:50px;
+			border-radius: 15px;
+		}
+	.loginbuttonfac{
+			height:35px;
+			width:180px;
+			margin-top:30px;
+			
+			border-radius: 15px;
+		}	
